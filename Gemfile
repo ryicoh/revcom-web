@@ -39,6 +39,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootsnap', '>= 1.1.0', require: false
 
 gem 'bootstrap'
+gem 'jquery-rails'
 
 gem 'html2slim'
 gem 'slim-rails'
